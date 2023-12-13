@@ -62,7 +62,7 @@ end
 
 if not num then bla() return end
 
-local chunk = GetTrackChunk(track)
+local chunk = GetTrackChunk(tr)
 
 t = {}
 
